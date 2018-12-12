@@ -28,6 +28,8 @@ namespace ePassport_Framework
 
             something.Serialize_json(Surname, Name, Date_of_Birth, Sex, issue_date, expiry_date, internal_ID_number, external_ID_number, Authorized_by);
             
+
+            //unecessary message 
         }
     }
 }
