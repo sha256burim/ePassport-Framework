@@ -1,0 +1,10 @@
+c:\users\stockholm\source\repos\ePassport Framework\ePassport Framework\bin\Debug\ePassport Framework.exe.config
+c:\users\stockholm\source\repos\ePassport Framework\ePassport Framework\bin\Debug\ePassport Framework.exe
+c:\users\stockholm\source\repos\ePassport Framework\ePassport Framework\bin\Debug\ePassport Framework.pdb
+c:\users\stockholm\source\repos\ePassport Framework\ePassport Framework\obj\Debug\ePassport Framework.csprojAssemblyReference.cache
+c:\users\stockholm\source\repos\ePassport Framework\ePassport Framework\obj\Debug\ePassport Framework.csproj.CoreCompileInputs.cache
+c:\users\stockholm\source\repos\ePassport Framework\ePassport Framework\obj\Debug\ePassport Framework.exe
+c:\users\stockholm\source\repos\ePassport Framework\ePassport Framework\obj\Debug\ePassport Framework.pdb
+C:\Users\Stockholm\source\repos\ePassport Framework\ePassport Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stockholm\source\repos\ePassport Framework\ePassport Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stockholm\source\repos\ePassport Framework\ePassport Framework\obj\Debug\ePassport Framework.csproj.CopyComplete
