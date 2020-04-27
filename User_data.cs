@@ -28,6 +28,7 @@ namespace ePassport_Framework
         //Should add public id for indexing in .json file, and a private ID that will be encrypted with the other data.
         //^^^ DONE:
 
+        //Json Structure Class
         public void Serialize_json
             (
             string Surname,
