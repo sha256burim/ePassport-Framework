@@ -1,4 +1,4 @@
-<h>This is a framework for user data managment in a passport style structure. </h>
+<h>ePassport-Framework: electronic pass framework for user data managment in a passport style json data structure. </h>
 
 Initial documentation
 
